@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1463441360 source:c:\users\ali abdulla\desktop\cpp\templating\main.cpp
+	<iostream>
+	"ListTemp.h"
+
+1463697033 c:\users\ali abdulla\desktop\cpp\templating\list.h
+	<iostream>
+
+1463439610 source:c:\users\ali abdulla\desktop\cpp\templating\list.cpp
+	"List.h"
+
+1463440535 source:c:\users\ali abdulla\desktop\cpp\templating\listtemp.cpp
+
+1463697033 c:\users\ali abdulla\desktop\cpp\templating\listtemp.h
+	<iostream>
+
+1463697148 source:c:\users\ali abdulla\desktop\templating\main.cpp
+	"ListTemp.h"
+
+1463697033 c:\users\ali abdulla\desktop\templating\listtemp.h
+	<iostream>
+
